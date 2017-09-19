@@ -1,0 +1,47 @@
+Team 10 
+UI prototype introduction
+
+PAGE SUMMARY
+In total we have 10 pages.
+	-about
+	-addCar
+	-contact
+	-index
+	-login
+	-myAccountAdmin
+	-myAccountUser
+	-pricing
+	-register
+	-rentNow
+
+PAGE DETAIL
+about
+ - basic information about the system
+addCar
+ - add a car to system. Navigate from admin page
+contact
+ - contact information of the company
+index
+ - homepage 
+login
+ - the page where user can log in
+myAccountAdmin
+ - this is the admin page. You can oversee the car inventory, add a new car, and oversee customers' information
+myAccountUser
+ - this is the user page. You can change passwords and change emails. Also shows the reservation history. 
+pricing
+ - shows the prices for each options
+register
+ - this is the page where customer can register
+rentNow
+ - this is where you can search all kinds of car.
+
+Note: Admin and user page are only on the navigation bar for initial prototype. We will integrate it with the system for different login credientials. 
+
+
+
+DEPLOYMENT
+We deployed UI prototype in the uml server.
+
+HOW TO ACCESS
+Go to this link: 
